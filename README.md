@@ -11,10 +11,12 @@ Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pr
 
 # Tecnologias utilizadas
 ## Back end
-- NodeJS/npm
+- NodeJS/Npm
+
 
 ## Front end 
-- HTML / CSS/ Vuejs
+- HTML / CSS/ Vuejs/Axios
+- Axios: Hábil na interceptar requisições(requests) HTTP.
 
 Pré-requisitos: npm 
 
@@ -28,7 +30,7 @@ npm install
 ## Como executar o projeto
 
 ## Back end
-Pré-requisitos: NodeJS/NPM
+Pré-requisitos: NodeJS/Npm/Axios
 
 # criar a pasta do projeto no VS Code
 dev-site
@@ -57,8 +59,6 @@ A partir dessa URL teremos os seguintes recursos em Json:
     Vídeos GET /videos.json
     Sobre GET /about.json
     Contatos GET /contacts.json
-
-
 
 Redes sociais:
 Instagram: https://instagram.com/wdevoficial
