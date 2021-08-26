@@ -11,7 +11,7 @@ Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pr
 
 # Tecnologias utilizadas
 ## Back end
-- NodeJS/NPM
+- NodeJS/npm
 
 ## Front end
 - HTML / CSS/ Vuejs
