@@ -13,10 +13,9 @@ Site_VueJS é um projeto VueJS que fiz tomando como base o consumo de API já pr
 ## Back end
 - NodeJS/npm
 
-## Front end
+## Front end 
 - HTML / CSS/ Vuejs
 
-## Front Site_VueJS
 Pré-requisitos: npm 
 
 ```bash
